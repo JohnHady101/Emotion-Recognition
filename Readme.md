@@ -159,3 +159,6 @@ This repository does not currently include a license file. Review the terms of
 the FER2013 dataset and any pretrained model components before redistribution
 or commercial use.
 
+Access the app via the link:
+http://18.206.250.158:8501
+
