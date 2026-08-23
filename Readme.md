@@ -38,6 +38,13 @@ a Python prediction module that can also be used directly from scripts.
 - pip
 - A CPU that can run ONNX Runtime
 
+The instance used for this project is an AWS `g4dn.xlarge` with:
+
+- 4 vCPUs and 16 GiB system memory
+- 1 NVIDIA T4 GPU with 16 GiB GPU memory
+- 125 GB local NVMe SSD storage
+- Up to 25 Gbps network bandwidth and 3.5 Gbps EBS bandwidth
+
 The inference module also requires NumPy, Pillow, PyTorch, and Torchvision.
 Install them alongside the pinned project dependencies:
 
